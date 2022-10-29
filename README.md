@@ -4,7 +4,7 @@ I have built a simple dashboard in PowerBI which shows Store Sales Analysis. I h
 
 #Charts
 
-1.The first chart is a column chart which shows Sales Volumbe by Brand. 
+1.The first chart is a column chart which shows Sales Volume by Brand. 
 
 2.The second chart is a column chart which shows Sales Revenue by Month.
 
